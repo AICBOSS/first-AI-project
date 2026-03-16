@@ -1,2 +1,3 @@
 # first-AI-project
 AI
+THIS IS MY FIRST AI PROJECT!
